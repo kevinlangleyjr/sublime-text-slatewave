@@ -1,0 +1,23 @@
+Slatewave
+=========
+
+Thanks for installing Slatewave! Slate below, teal above.
+
+To activate:
+
+  1. Preferences → Select Color Scheme… → "Slatewave"
+  2. Preferences → Select Theme…        → "Slatewave"
+
+Or paste this into your user settings (Preferences → Settings):
+
+    "color_scheme": "Packages/Slatewave/Slatewave.sublime-color-scheme",
+    "theme": "Slatewave.sublime-theme"
+
+Palette, syntax mapping, and companion themes (VSCode, Obsidian,
+Oh My Posh, and more) are documented at:
+
+    https://getslatewave.com/
+
+Issues and PRs welcome at:
+
+    https://github.com/kevinlangleyjr/sublime-text-slatewave
