@@ -2,9 +2,9 @@
 
 <img src="docs/logo.png" alt="Slatewave" width="840" />
 
-# Slatewave for Sublime Text
+# Slatewave (Sublime Text)
 
-A dark Sublime Text theme — **color scheme and UI theme** — built around a slate foundation and a teal signature, with sky / rose / purple / amber accents pulled from the same palette as the [companion VSCode theme](https://github.com/kevinlangleyjr/vscode-slatewave) and [Oh My Posh prompt](https://github.com/kevinlangleyjr/slatewave-omp). Designed so every tool you use speaks the same visual language.
+A dark [Sublime Text](https://www.sublimetext.com) theme — **color scheme and UI theme** — built around a slate foundation and a teal signature, with sky / rose / purple / amber accents. Part of the [Slatewave family](#slatewave-family) — one palette across editors, terminals, prompts, notes, and more.
 
 > _Slate below, teal above._
 
@@ -180,19 +180,19 @@ For UI theme overrides (`Preferences → Customize Theme`):
 
 ---
 
-## Companion themes
+## Slatewave family
 
-Slatewave is a single palette applied across a whole toolchain. Other implementations:
+One palette. Every tool.
 
-- [VSCode](https://github.com/kevinlangleyjr/vscode-slatewave)
-- [Obsidian](https://github.com/kevinlangleyjr/obsidian-slatewave)
-- [Oh My Posh](https://github.com/kevinlangleyjr/slatewave-omp)
-- [Alacritty](https://github.com/kevinlangleyjr/alacritty-slatewave)
-- [Ghostty](https://github.com/kevinlangleyjr/ghostty-slatewave)
-- [iTerm2](https://github.com/kevinlangleyjr/iterm2-slatewave)
-- [Starship](https://github.com/kevinlangleyjr/starship-slatewave)
+- **Editors** — [VSCode](https://github.com/kevinlangleyjr/vscode-slatewave) · [Neovim](https://github.com/kevinlangleyjr/neovim-slatewave) · [Helix](https://github.com/kevinlangleyjr/helix-slatewave) · [Zed](https://github.com/kevinlangleyjr/zed-slatewave) · [JetBrains](https://github.com/kevinlangleyjr/jetbrains-slatewave)
+- **Terminals** — [Alacritty](https://github.com/kevinlangleyjr/alacritty-slatewave) · [Ghostty](https://github.com/kevinlangleyjr/ghostty-slatewave) · [iTerm2](https://github.com/kevinlangleyjr/iterm2-slatewave) · [WezTerm](https://github.com/kevinlangleyjr/wezterm-slatewave) · [Windows Terminal](https://github.com/kevinlangleyjr/windows-terminal-slatewave)
+- **Prompts** — [Oh My Posh](https://github.com/kevinlangleyjr/slatewave-omp) · [Starship](https://github.com/kevinlangleyjr/starship-slatewave)
+- **Multiplexer** — [tmux](https://github.com/kevinlangleyjr/tmux-slatewave)
+- **Notes** — [Obsidian](https://github.com/kevinlangleyjr/obsidian-slatewave) · [Logseq](https://github.com/kevinlangleyjr/logseq-slatewave)
+- **Launchers** — [Alfred](https://github.com/kevinlangleyjr/alfred-slatewave) · [Raycast](https://github.com/kevinlangleyjr/raycast-slatewave)
+- **Chat** — [Slack](https://github.com/kevinlangleyjr/slack-slatewave)
 
-Full documentation: [getslatewave.com](https://getslatewave.com/)
+See [getslatewave.com](https://getslatewave.com) for the full family.
 
 ---
 
