@@ -116,6 +116,31 @@
             "content_margin": [8, 8],
             "color": "var(slate_500)"
         },
+        {
+            "class": "icon_folder",
+            "layer0.tint": "var(slate_400)",
+            "layer0.opacity": 1.0
+        },
+        {
+            "class": "icon_folder",
+            "parents": [{"class": "tree_row", "attributes": ["hover"]}],
+            "layer0.tint": "var(slate_200)"
+        },
+        {
+            "class": "icon_folder",
+            "parents": [{"class": "tree_row", "attributes": ["selected"]}],
+            "layer0.tint": "var(teal_300)"
+        },
+        {
+            "class": "icon_folder",
+            "parents": [{"class": "tree_row", "attributes": ["expanded"]}],
+            "layer0.tint": "var(slate_300)"
+        },
+        {
+            "class": "icon_folder_loading",
+            "layer0.tint": "var(slate_400)",
+            "layer0.opacity": 1.0
+        },
 
         // -------- VCS status (file badges in the sidebar) --------
         {

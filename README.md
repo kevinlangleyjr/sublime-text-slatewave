@@ -12,6 +12,8 @@ A dark [Sublime Text](https://www.sublimetext.com) theme — **color scheme and 
 
 > _Slate below, teal above._
 
+![Slatewave preview](docs/preview.png)
+
 </div>
 
 ---
